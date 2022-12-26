@@ -1,0 +1,2 @@
+# cqfFinalProject
+Pairs trading Strategy
